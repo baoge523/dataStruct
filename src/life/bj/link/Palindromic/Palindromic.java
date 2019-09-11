@@ -1,4 +1,6 @@
-package life.bj.link;
+package life.bj.link.Palindromic;
+
+import life.bj.link.Node;
 
 /**
  * 回文数
